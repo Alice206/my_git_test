@@ -1,2 +1,2 @@
-Gi测试
+Git测试
 add a line
